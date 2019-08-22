@@ -1,0 +1,5 @@
+print ("Bu program 2019 yýlýnda Emre KAYIK tarafýndan oluþturulmuþtur. ©EK")
+print ("Programýn ismi server ve chat kelimelerinin birleþmesi ile oluþturulmuþtur.")
+print ("Python 3.7.4 ile oluþturulmuþtur, 2x sürümlerde çalýþmayabilir.")
+
+
