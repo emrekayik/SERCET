@@ -7,5 +7,5 @@ Python 3.7.4 ile yazılmıştır,2x sürümlerde çalışmayabilir.
 
 
 
-Herhangi  bir PIP'e ihtiyaç yoktur.
+Herhangi  bir PIP ihtiyaç yoktur.
 
